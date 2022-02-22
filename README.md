@@ -6,9 +6,9 @@ The app is currently in playground format.
 
 Stableford is a scoring system in golf which, rather than counting the total number of strokes taken, involves scoring points based on the number of strokes taken at each hole. 
 
-**What is the Stableford scoring system?
+**What is the Stableford scoring system?**
 
-Points in Stableford are awarded as follows: **
+**Points in Stableford are awarded as follows:**
 
 • 6 points – Four strokes under 
 • 5 points – Three strokes under 
