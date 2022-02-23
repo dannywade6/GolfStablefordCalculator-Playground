@@ -1,6 +1,6 @@
 # GolfStablefordCalculator
 
-This is a personal project to solidfy my understading of the Swift programming language and to build a SwiftUI application with plans of publishing this to the App Store. 
+This is a personal project to solidify my understanding of the Swift programming language and to build a SwiftUI application with plans of publishing this to the App Store.
 
 The app is currently in a Swift XCode playground format. 
 
