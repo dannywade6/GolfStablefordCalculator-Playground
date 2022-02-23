@@ -2,11 +2,11 @@
 
 This is a personal project to solidfy my understading of the Swift programming language and to build a SwiftUI application with plans of publishing this to the App Store. 
 
-The app is currently in playground format. 
-
-Stableford is a scoring system in golf which, rather than counting the total number of strokes taken, involves scoring points based on the number of strokes taken at each hole. 
+The app is currently in a Swift XCode playground format. 
 
 **What is the Stableford scoring system?**
+
+Stableford is a scoring system in golf which, rather than counting the total number of strokes taken, involves scoring points based on the number of strokes taken at each hole. 
 
 **Points in Stableford are awarded as follows:**
 
