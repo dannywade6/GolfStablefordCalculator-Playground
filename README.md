@@ -1,8 +1,8 @@
-# GolfStablefordCalculator
+# GolfStablefordCalculator - Xcode Playground
 
 This is a personal project to solidify my understanding of the Swift programming language and to build a SwiftUI application with plans of publishing this to the App Store.
 
-The app is currently in a Swift XCode playground format. 
+The app is currently in a Swift Xcode playground format. 
 
 **What is the Stableford scoring system?**
 
